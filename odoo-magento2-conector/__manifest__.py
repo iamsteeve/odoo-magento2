@@ -8,9 +8,9 @@
     'summary' : 'Integrate & Manage all your Magento2 operations from Odoo',
     
     # Author
-    'author': 'Emipro Technologies Pvt. Ltd.',
-    'website': 'http://www.emiprotechnologies.com/',
-    'maintainer': 'Emipro Technologies Pvt. Ltd.',
+    'author': 'Steeve',
+    'website': 'http://www.example.com/',
+    'maintainer': 'Fox.',
     
     # Dependencies
     'depends': ['delivery','stock','sale_management','base_sparse_field'],
@@ -57,7 +57,4 @@
     'installable': True,
     'auto_install': False,
     'application' : True,
-    'price': 399.00,
-    'currency': 'EUR',
-    
 }
